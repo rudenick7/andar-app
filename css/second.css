@@ -1,0 +1,51 @@
+.second .benefit {
+	font-weight: 800;
+	font-size: 25px;
+}
+
+.benefit_total {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.benefit1,
+.benefit2 {
+	margin-top: 50px;
+}
+
+.benefit1 {
+	margin-right: 10px;
+	border: none;
+	border-right: 1px solid #9b9b9b;
+	padding-right: 10px;
+}
+
+.benefit2 {
+	margin-left: 10px;
+}
+
+.benefit1_1,
+.benefit1_2,
+.benefit2_1,
+.benefit2_2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 15px;
+}
+
+.benefit_total i {
+	font-size: 45px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.benefit_text1_1,
+.benefit_text1_2,
+.benefit_text2_1,
+.benefit_text2_2 {
+	opacity: 0.5;
+	margin-bottom: 10px;
+}

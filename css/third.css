@@ -1,0 +1,125 @@
+.third {
+	background-color: #222222;
+	margin: 20px -20px 0px -20px;
+	padding-left: 20px;
+}
+
+.third-introduce {
+	display: inline-block;
+	color: white;
+	font-size: 20px;
+}
+
+.introduce-brand {
+	margin-top: 30px;
+}
+
+.introduce-brand,
+.introduce-contact,
+.introduce-store,
+.introduce-notice,
+.introduce-hiring {
+	margin-bottom: 20px;
+	font-weight: 800;
+}
+
+.third-bank {
+	margin-top: 30px;
+}
+
+.bank-info-text {
+	color: #9f9f9f;
+	font-size: 20px;
+	margin-bottom: 10px;
+	font-weight: 800;
+}
+
+.bank-kb i {
+	color: #f4aa15;
+	font-size: 16px;
+}
+.bank-we i {
+	color: #02a3e0;
+	font-size: 16px;
+}
+
+.bank-kb,
+.bank-we {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.bank-kb-text,
+.bank-we-text {
+	font-size: 16px;
+	color: #f9f9f9;
+}
+
+.bank-master {
+	color: #636363;
+	font-size: 13px;
+	font-weight: 800;
+}
+
+.third-call {
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.call-number {
+	margin-top: 20px;
+	font-size: 16px;
+	color: #f9f9f9;
+	font-weight: 800;
+}
+
+.call-daytime,
+.call-deny {
+	margin-top: 10px;
+	color: #636363;
+	font-size: 13px;
+	font-weight: 800;
+}
+
+.call-deny {
+	margin-bottom: 20px;
+}
+
+.third-sns i {
+	font-size: 40px;
+	color: #ffffff;
+	margin: 25px 20px 60px 0px;
+}
+
+.third-sns {
+	position: relative;
+}
+
+.third-sns .sns-address {
+	position: absolute;
+	color: #636363;
+	font-size: 11px;
+	left: 110px;
+	top: 70px;
+}
+
+.nav {
+	position: fixed;
+}
+
+.nav-select {
+	width: 462px;
+	height: 45px;
+	bottom: 50px;
+	left: 50px;
+	display: flex;
+	justify-content: space-around;
+	font-size: 30px;
+	background-color: red;
+}
+
+.nav i {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

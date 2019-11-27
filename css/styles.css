@@ -1,0 +1,13 @@
+@import "reset.css";
+@import "header.css";
+@import "wrapper.css";
+@import "first.css";
+@import "second.css";
+@import "third.css";
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:400,800&display=swap');
+
+body {
+	display: flex;
+	justify-content: center;
+	font-family: 'M PLUS 1p', sans-serif;
+}
